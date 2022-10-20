@@ -4,13 +4,13 @@ import plotly.graph_objs as go
 
 np.random.seed(42)
 
-rand_x = np.random.randint(1, 101, 100)
-rand_y = np.random.randint(1, 101, 100)
+values_x = np.random.randint(1, 101, 100)
+values_y = np.random.randint(1, 101, 100)
 
 trace = [
     go.Scatter(
-        x=rand_x,
-        y=rand_y,
+        x=values_x,
+        y=values_y,
         mode="markers",
         marker=dict(size=10, color="rgb(255,0,0)", symbol="x", line={"width": 1}),
     )
