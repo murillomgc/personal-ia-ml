@@ -3,7 +3,7 @@ import plotly.offline as pyo
 import plotly.graph_objs as go
 
 
-df = pd.read_csv("nst-est2017-alldata.csv")
+df = pd.read_csv("nst-est2017.csv")
 
 df2 = df[df["DIVISION"] == "1"]
 df2.set_index("NAME", inplace=True)
@@ -32,6 +32,6 @@ fig = go.Figure(data=data, layout=layout)
 
 pyo.plot(
     fig,
-    filename="line-charts-example(nst-est2017-pop).html",
+    filename="nst-est2017-pop_line-charts.html",
     auto_open=False,
 )
