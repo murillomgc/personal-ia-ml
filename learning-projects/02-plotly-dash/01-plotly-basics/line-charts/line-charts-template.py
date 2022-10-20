@@ -19,7 +19,3 @@ layout = go.Layout(title="Line Chart Examples")
 
 fig = go.Figure(data=data, layout=layout)
 pyo.plot(fig, filename="line-charts-template.html", auto_open=False)
-
-
-# Saves a html doc that you can copy paste
-fig.write_html("output.html", full_html=False, include_plotlyjs="cdn")
