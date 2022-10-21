@@ -36,7 +36,7 @@ def index():
 
 @app.route("/newgame")
 def new():
-    if "logged_user" not in session or session["logged_user"] == None:
+    if ("logged_user" not in session) or (session["logged_user"] is None):
         return redirect(url_for("login"))
     else:
         return render_template("newgame.html", title="New Game")
