@@ -32,6 +32,6 @@ fig = go.Figure(data=data, layout=layout)
 
 pyo.plot(
     fig,
-    filename="nst-est2017-pop_line-charts.html",
+    filename="nst-est2017.html",
     auto_open=False,
 )

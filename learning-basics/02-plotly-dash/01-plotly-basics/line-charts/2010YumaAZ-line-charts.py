@@ -23,6 +23,6 @@ fig = go.Figure(data=data, layout=layout)
 
 pyo.plot(
     fig,
-    filename="2010YumaAZ-line-charts.html",
+    filename="2010YumaAZ.html",
     auto_open=False,
 )
