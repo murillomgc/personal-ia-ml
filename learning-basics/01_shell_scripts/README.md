@@ -1,4 +1,4 @@
-# 01-shell-scripts
+# 01_shell_scripts
 
 ## About
 
@@ -9,4 +9,4 @@
 1. [Managing Files](01_managing_files/)
 2. [Recursion)](02_recursion/)
 3. [System Processes](03_system_processes/)
-4. [Regular Expressions](04_regular_expressions/)
+4. [Regular Expressions](04_regex/)
