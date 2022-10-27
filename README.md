@@ -2,4 +2,4 @@
 
 Personal repository for AI and Machine Learning development.
 
-## [**Learning Basics**](learning-basics/README.md)
+## [**Learning Basics**](learning-basics/)
