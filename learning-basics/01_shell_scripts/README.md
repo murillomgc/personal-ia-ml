@@ -7,6 +7,6 @@
 # Table of contents
 
 1. [Managing Files](01_managing_files/)
-2. [Recursion)](02-recursion/)
-3. [System Processes](03-system-processes/)
-4. [Regular Expressions](04-regular-expressions/)
+2. [Recursion)](02_recursion/)
+3. [System Processes](03_system_processes/)
+4. [Regular Expressions](04_regular_expressions/)

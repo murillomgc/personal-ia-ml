@@ -6,6 +6,6 @@
 
 # Table of contents
 
-1. [Shell Scripts (basics)](01-shell-scripts-basics/README.md)
-2. [Flask (basics)](02-flask-basics/README.md)
-3. [Data Visualization (plotly+dash)](03-data-visualization/README.md)
+1. [Shell Scripts (basics)](01_shell_scripts/README.md)
+2. [Flask (basics)](02_flask_basics/README.md)
+3. [Data Visualization (plotly+dash)](03_plotly_dash/README.md)
