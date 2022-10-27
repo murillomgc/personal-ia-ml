@@ -1,0 +1,6 @@
+Flask==2.2.2
+Flask-Bcrypt==1.0.1
+Flask-Compress==1.13
+Flask-SQLAlchemy==3.0.2
+Flask-WTF==1.0.1
+mysql-connector-python==8.0.31

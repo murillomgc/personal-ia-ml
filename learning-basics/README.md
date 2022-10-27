@@ -7,7 +7,7 @@
 ## Index
 
 1. [Shell Scripts (basics)](01_shell_scripts/)
-2. [Flask (basics)](02_flask_basics/)
+2. [Flask (Basic CRUD)](02_flask_basic_crud/)
 3. [Data Visualization (plotly+dash)](03_plotly_dash/)
 
 # [ 🠨 ](../)
