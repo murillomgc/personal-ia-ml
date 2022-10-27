@@ -9,3 +9,5 @@
 1. [Shell Scripts (basics)](01_shell_scripts/README.md)
 2. [Flask (basics)](02_flask_basics/README.md)
 3. [Data Visualization (plotly+dash)](03_plotly_dash/README.md)
+
+# [ 🠨 ](../README.md)

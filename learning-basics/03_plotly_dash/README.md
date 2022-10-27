@@ -9,3 +9,5 @@
 1. [Plotly (basics)](01_plotly_basics/README.md)
 2. [Dash (basics)](02_dash_basics/)
 3. [Dash Components](03_dash_components/)
+
+# [ 🠨 ](../README.md)
