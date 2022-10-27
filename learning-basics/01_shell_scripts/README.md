@@ -4,7 +4,7 @@
 
 > Directory for learning commands and basic script manipulations within Shell resources.
 
-# Table of contents
+## Index
 
 1. [Managing Files](01_managing_files/)
 2. [Recursion](02_recursion/)
